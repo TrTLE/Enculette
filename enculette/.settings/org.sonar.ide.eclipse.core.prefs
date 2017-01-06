@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=
+projectKey=org.bzs\:enculette
+serverUrl=http\://oasp-ci.cloudapp.net/sonarqube
+version=2
