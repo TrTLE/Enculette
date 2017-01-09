@@ -18,8 +18,10 @@ public class HelloWorldTest {
   public void test() {
 
     HelloWorld tester = new HelloWorld();
+    tester.sayhello();
 
     assertEquals("Hello", tester.sayhello());
+    assertEquals(1, tester.countCall());
   }
 
 }
